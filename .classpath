@@ -6,5 +6,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/newgit/json/dependency/jackson-core-2.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/newgit/json/dependency/jackson-databind-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/newgit/json/dependency/jackson-annotations-2.9.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
